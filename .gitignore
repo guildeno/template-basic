@@ -1,0 +1,14 @@
+# Secret configs
+.env
+
+# Node.js stuff
+node_modules/
+
+# Mystery ignored this file
+!commands
+
+# Good for debugging
+debug
+*.debug
+debug.*
+*.debug.*
